@@ -1,0 +1,6 @@
+@EVServiceCenterMaintenanceSystem_HostAddress = http://localhost:5116
+
+GET {{EVServiceCenterMaintenanceSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
