@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVServiceCenterMaintenanceSystem", "EVServiceCenterMaintenanceSystem\EVServiceCenterMaintenanceSystem.csproj", "{6138C13A-B549-412D-9A71-678BE19DD3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV.DataAccessLayer", "EV.DataAccessLayer\EV.DataAccessLayer.csproj", "{26BFE648-A565-40FC-A175-63AA57D65091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV.BussinessLogicLayer", "EV.BussinessLogicLayer\EV.BussinessLogicLayer.csproj", "{CAD06425-733E-4A22-BD92-9A40E505FB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6138C13A-B549-412D-9A71-678BE19DD3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6138C13A-B549-412D-9A71-678BE19DD3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6138C13A-B549-412D-9A71-678BE19DD3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BFE648-A565-40FC-A175-63AA57D65091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFE648-A565-40FC-A175-63AA57D65091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFE648-A565-40FC-A175-63AA57D65091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFE648-A565-40FC-A175-63AA57D65091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD06425-733E-4A22-BD92-9A40E505FB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD06425-733E-4A22-BD92-9A40E505FB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD06425-733E-4A22-BD92-9A40E505FB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD06425-733E-4A22-BD92-9A40E505FB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
